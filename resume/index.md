@@ -1,3 +1,5 @@
+[Profile picture](../images/profile.png)
+
 # Neal Caffery 
 
 Neal.caffery@gmail.com
@@ -5,6 +7,8 @@ Neal.caffery@gmail.com
 http://www.project.com
 
 http://www.linkedin.com/in/Nealcaffery
+
+“Always learning, always improving.”
 
 # Summary
 
